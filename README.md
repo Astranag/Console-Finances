@@ -4,7 +4,7 @@
 
 JavaScript Fundamentals: Console Finances
 
-This activity presents a real-world situation in which your newfound JavaScript skills will come in handy. You are tasked with creating code for analyzing the financial records of a company. You have been provided with a financial dataset
+This activity presents a real-world situation in which your newfound JavaScript skills will come in handy. You are tasked with creating code for analyzing the financial records of a company. You have been provided with a financial dataset.
 
 ### Requirments completed:
 
@@ -15,7 +15,7 @@ JavaScript code that analyzes the records to calculate each of the following:
 * The greatest increase in Profit/Losses (date and difference in the amounts) over the entire period.
 * The greatest decrease in Profit/Losses (date and difference in the amounts) over the entire period.
 
-Link to the Deployed Webpage: 
+Link to the Deployed Webpage: https://astranag.github.io/Console-Finances/  
 
 ## Installation    
 
