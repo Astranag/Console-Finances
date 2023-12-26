@@ -15,13 +15,6 @@ JavaScript code that analyzes the records to calculate each of the following:
 * The greatest increase in Profit/Losses (date and difference in the amounts) over the entire period.
 * The greatest decrease in Profit/Losses (date and difference in the amounts) over the entire period.
 
-  Financial Analysis
-----------------------------
-Total Months: 86
-Total: $38382578
-Average Change: -2315.12
-Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
-Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
 
 Link to the Deployed Webpage: https://astranag.github.io/Console-Finances/  
 
